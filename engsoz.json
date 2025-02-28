@@ -1,36 +1,43 @@
 [
     {
         "eng": "Algorithm",
+        "eng_def": "A process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.",
         "aze": "Alqoritm",
         "aze_def": "Müəyyən bir problemi həll etmək üçün addım-addım izah edilən qaydalar və əmrlər toplusudur."
     },
     {
         "eng": "Data Structures",
+        "eng_def": "Ways of organizing and storing data so that they can be accessed and modified efficiently.",
         "aze": "Məlumat strukturları",
         "aze_def": "Məlumatların səmərəli saxlanması, təşkili və idarə olunması üçün istifadə olunan xüsusi formatdır."
     },
     {
         "eng": "Database",
+        "eng_def": "An organized collection of data, generally stored and accessed electronically from a computer system.",
         "aze": "Verilənlər bazası",
         "aze_def": "Məlumatların saxlanılması, idarə olunması və sorğular vasitəsilə əldə edilməsi üçün istifadə olunan sistemdir."
     },
     {
         "eng": "Sorting",
+        "eng_def": "The process of arranging data in a specific order, such as ascending or descending.",
         "aze": "Sıralama",
         "aze_def": "Verilənlərin müəyyən qaydaya (artan, azalan və s.) uyğun düzülməsi əməliyyatıdır."
     },
     {
         "eng": "Cache",
+        "eng_def": "A temporary storage area where frequently accessed data can be stored for rapid access.",
         "aze": "Siyirmə",
         "aze_def": "Məlumatları sürətli əldə etmək məqsədilə müvəqqəti saxlanılan yaddaş sahəsi."
-    },    
+    },
     {
         "eng": "Caching strategy",
+        "eng_def": "A method used to store and manage data in a cache to improve performance and efficiency.",
         "aze": "Siyirmələmə üsulu",
         "aze_def": "Məlumatları sürətli əldə etmək məqsədilə müvəqqəti saxlanılan yaddaş sahəsi."
     },
     {
         "eng": "Application",
+        "eng_def": "Software designed to help the user perform specific tasks.",
         "aze": "Tətbiq",
         "aze_def": "İstifadəçilərə müəyyən bir məqsəd üçün xidmət edən proqram təminatı."
     },
@@ -42,7 +49,7 @@
     },
     {
         "eng": "Abstraction",
-        "eng_def": null,
+        "eng_def": "The process of reducing complexity by focusing on the essential characteristics rather than specific details.",
         "aze": "Abstraksiya",
         "aze_def": "Mürəkkəb sistemlərin sadələşdirilməsi və əsas xüsusiyyətlərə fokuslanma prosesi."
     },
@@ -72,13 +79,13 @@
     },
     {
         "eng": "Access Control",
-        "eng_def": null,
+        "eng_def": "Policies and procedures that determine who can access the system and data.",
         "aze": "Giriş Nəzarəti",
         "aze_def": "Sistemə və məlumatlara kimin giriş edə biləcəyini müəyyən edən siyasətlər və prosedurlar."
     },
     {
         "eng": "Access Modifier",
-        "eng_def": null,
+        "eng_def": "A feature in programming languages that regulates access rights to classes and objects.",
         "aze": "Giriş Modifikatoru",
         "aze_def": "Sinif və obyektlərə giriş hüquqlarını tənzimləyən proqramlaşdırma dilindəki xüsusiyyət."
     },
@@ -102,7 +109,7 @@
     },
     {
         "eng": "Active Directory",
-        "eng_def": null,
+        "eng_def": "A central database used in Microsoft systems to manage users and resources.",
         "aze": "Aktiv Kataloq",
         "aze_def": "Microsoft sistemlərində istifadəçi və resursları idarə etmək üçün mərkəzi məlumat bazası."
     },
@@ -126,7 +133,7 @@
     },
     {
         "eng": "Adapter Pattern",
-        "eng_def": null,
+        "eng_def": "A design pattern that allows incompatible interfaces to work together by wrapping an existing class with a new interface.",
         "aze": "Adapter Nümunəsi",
         "aze_def": "Müxtəlif interfeysləri uyğunlaşdıran və onları bir-birinə qoşan dizayn nümunəsi."
     },
@@ -150,13 +157,13 @@
     },
     {
         "eng": "Agile Methodology",
-        "eng_def": null,
+        "eng_def": "A software development methodology that responds to changing requirements through iterative and collaborative processes.",
         "aze": "Çevik Metodologiya",
         "aze_def": "Tez-tez dəyişən tələblərə cavab verən, iterativ və sıx əməkdaşlıq tələb edən proqram inkişaf metodologiyası."
     },
     {
         "eng": "Agile Software Development",
-        "eng_def": null,
+        "eng_def": "The iterative and incremental development of software, adapting to user requirements.",
         "aze": "Çevik Proqram Təminatı İnkişafı",
         "aze_def": "Proqram təminatının çevik və iterativ inkişafı, istifadəçi tələblərinə uyğunlaşma."
     },
@@ -180,25 +187,25 @@
     },
     {
         "eng": "Algorithm",
-        "eng_def": null,
+        "eng_def": "A process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.",
         "aze": "Alqoritm",
         "aze_def": "Müəyyən bir problemi həll etmək üçün ardıcıl addımların və qaydaların dəstəsi."
     },
     {
         "eng": "Align",
-        "eng_def": null,
+        "eng_def": "To arrange different parts or components in a proper relationship or orientation.",
         "aze": "Ahəngdə olmaq",
         "aze_def": "Müxtəlif hissələri və ya komponentləri uyğunlaşdırmaq və birgə işləməsini təmin etmək."
     },
     {
         "eng": "Allocation",
-        "eng_def": null,
+        "eng_def": "The process of assigning resources or memory for use.",
         "aze": "Ayrılma (Təyin etmə)",
         "aze_def": "Resursların və ya yaddaşın istifadə üçün ayrılması."
     },
     {
         "eng": "Alpha Testing",
-        "eng_def": null,
+        "eng_def": "Initial testing of an application by internal users.",
         "aze": "Alfa Testi",
         "aze_def": "Tətbiqin ilkin versiyasının daxili istifadəçilər tərəfindən test edilməsi."
     },
@@ -210,7 +217,7 @@
     },
     {
         "eng": "Analysis",
-        "eng_def": null,
+        "eng_def": "The systematic examination of data and processes.",
         "aze": "Təhlil",
         "aze_def": "Məlumatların və proseslərin sistematik araşdırılması."
     },
@@ -222,7 +229,7 @@
     },
     {
         "eng": "Analytics",
-        "eng_def": null,
+        "eng_def": "The systematic computational analysis of data or statistics.",
         "aze": "Analitika",
         "aze_def": "Məlumatların təhlil edilməsi və onlardan mənalı nəticələr çıxarılması."
     },
@@ -246,7 +253,7 @@
     },
     {
         "eng": "API (Application Programming Interface)",
-        "eng_def": null,
+        "eng_def": "A set of functions and procedures allowing the creation of applications that access the features or data of an operating system, application, or other service.",
         "aze": "API (Tətbiq Proqramlaşdırma İnterfeysi)",
         "aze_def": "Proqramlar arasında məlumat mübadiləsini təmin edən interfeys."
     },
@@ -258,7 +265,7 @@
     },
     {
         "eng": "Application Lifecycle Management (ALM)",
-        "eng_def": null,
+        "eng_def": "The process of managing the development, deployment, and maintenance of an application.",
         "aze": "Tətbiq Həyat Dövrü İdarəetməsi",
         "aze_def": "Tətbiqin inkişafı, yerləşdirilməsi və saxlanılması proseslərini idarə etmək."
     },
@@ -270,7 +277,7 @@
     },
     {
         "eng": "Application Server",
-        "eng_def": null,
+        "eng_def": "A server that provides an environment for applications to run and offers services to users.",
         "aze": "Tətbiq Serveri",
         "aze_def": "Tətbiqlərin işləməsini təmin edən və istifadəçilərə xidmət göstərən server."
     },
@@ -288,31 +295,31 @@
     },
     {
         "eng": "Architecture",
-        "eng_def": null,
+        "eng_def": "The structure and organization of a system and its components.",
         "aze": "Memarlıq",
         "aze_def": "Sistemin strukturu və komponentlərinin necə təşkil edildiyini göstərən plan."
     },
     {
         "eng": "Artifact",
-        "eng_def": null,
+        "eng_def": "Any product or document created during the software development or testing process.",
         "aze": "Artefakt",
         "aze_def": "Proqram inkişafı və ya test prosesi zamanı yaradılan hər hansı bir məhsul və ya sənəd."
     },
     {
         "eng": "Assembly Language",
-        "eng_def": null,
+        "eng_def": "A low-level programming language that is close to machine code.",
         "aze": "Yığın Dili",
         "aze_def": "Maşın dilinə yaxın, aşağı səviyyəli proqramlaşdırma dili."
     },
     {
         "eng": "Assert",
-        "eng_def": null,
+        "eng_def": "An operation used to check if a program is working under certain conditions.",
         "aze": "Təmin Etmək",
         "aze_def": "Proqramın müəyyən şərtlərə uyğun işlədiyini yoxlamaq üçün istifadə olunan əməliyyat."
     },
     {
         "eng": "Assertion",
-        "eng_def": null,
+        "eng_def": "A type of test that checks if a program is working under certain conditions.",
         "aze": "Təminat",
         "aze_def": "Proqramın müəyyən şərtlərlə işlədiyini yoxlayan bir növ test."
     },
@@ -324,31 +331,31 @@
     },
     {
         "eng": "Assessment",
-        "eng_def": null,
+        "eng_def": "The measurement and evaluation of the performance or quality of a program or system.",
         "aze": "Qiymətləndirmə",
         "aze_def": "Proqramın və ya sistemin performansının və ya keyfiyyətinin ölçülməsi."
     },
     {
         "eng": "Assignment",
-        "eng_def": null,
+        "eng_def": "The act of assigning a value to a variable in a programming language.",
         "aze": "Tapşırıq",
         "aze_def": "Proqramlaşdırma dilində verilən və ya təyin edilmiş dəyərin dəyişkənə təyin edilməsi."
     },
     {
         "eng": "Association",
-        "eng_def": null,
+        "eng_def": "A relationship or connection between classes.",
         "aze": "Assosiasiya",
         "aze_def": "Siniflər arasında əlaqə və ya münasibət."
     },
     {
         "eng": "Asynchronous Communication",
-        "eng_def": null,
+        "eng_def": "The exchange of information without requiring time synchronization.",
         "aze": "Asinxron Əlaqə",
         "aze_def": "Məlumat mübadiləsinin vaxt sinxronizasiyasına ehtiyac duymadan aparılması."
     },
     {
         "eng": "Asynchronous Programming",
-        "eng_def": null,
+        "eng_def": "Programming that allows multiple operations to run in parallel without waiting for one to complete before starting others.",
         "aze": "Asinxron Proqramlaşdırma",
         "aze_def": "Proqramın bir neçə əməliyyatı paralel yerinə yetirərək, birinin tamamlanmasını gözləmədən digərlərini icra etməsi."
     },
@@ -360,7 +367,7 @@
     },
     {
         "eng": "Atomic Operation",
-        "eng_def": null,
+        "eng_def": "An operation that is indivisible and is completed entirely or not at all.",
         "aze": "Atomik Əməliyyat",
         "aze_def": "Bölünməz və tamamilə yerinə yetirilən əməliyyat."
     },
